@@ -40,11 +40,10 @@ Things I learned over here:
 5. Giving smart narration to the dashboard.
 
 Revenue insights- Dashboard view (overall)
-(https://github.com/Isaac1515/Revenue_Insights/assets/73594051/14f98773-3462-4ec2-9040-bd8d5ca79811)
-ghts/assets/73594051/9c57d444-16ac-475f-9a0a-8007a113dba5)
+![overall](https://github.com/Isaac1515/Revenue_Insights/assets/73594051/f1a6d775-af52-40c8-8161-2a3bd4324a20)
 
 Revenue insights- Dashboard view (Filtered by City- Delhi)
-![overall](https://github.com/Isaac1515/Revenue_Insi![filter by city ]
+![filter by city ](https://github.com/Isaac1515/Revenue_Insights/assets/73594051/f28efeee-cde3-43ef-8c87-b78b3bb7afbe)
 
 
 
