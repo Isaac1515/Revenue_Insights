@@ -38,3 +38,14 @@ Things I learned over here:
 3. Understanding use of charts and developing DAX measured,
 4. Developing beautiful UI
 5. Giving smart narration to the dashboard.
+
+Revenue insights- Dashboard view (overall)
+(https://github.com/Isaac1515/Revenue_Insights/assets/73594051/14f98773-3462-4ec2-9040-bd8d5ca79811)
+ghts/assets/73594051/9c57d444-16ac-475f-9a0a-8007a113dba5)
+
+Revenue insights- Dashboard view (Filtered by City- Delhi)
+![overall](https://github.com/Isaac1515/Revenue_Insi![filter by city ]
+
+
+
+
